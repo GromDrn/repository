@@ -1,5 +1,5 @@
 #!/bin/bash
-# пусто
+#пример
 read A
 echo $A
 printf "
