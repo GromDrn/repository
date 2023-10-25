@@ -2,3 +2,4 @@
 
 read A
 echo $A
+printf "
